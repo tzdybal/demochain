@@ -1,0 +1,11 @@
+syntax = "proto3";
+package celestiaorg.demochain.demochain;
+
+// this line is used by starport scaffolding # genesis/proto/import
+
+option go_package = "github.com/celestiaorg/demochain/x/demochain/types";
+
+// GenesisState defines the demochain module's genesis state.
+message GenesisState {
+    // this line is used by starport scaffolding # genesis/proto/state
+}
