@@ -1,0 +1,7 @@
+[p2p]
+seeds = "12D3KooWNqF411oNJcufMLvxvGowg21LA442ukLYPzJkMk6kios3@159.89.108.235:26656"
+
+[optimint]
+  aggregator = false
+  da_layer = "grpc"
+  da_config = '{"host":"159.89.108.235", "port":7980}'
