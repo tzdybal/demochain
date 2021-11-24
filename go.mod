@@ -3,7 +3,7 @@ module github.com/celestiaorg/demochain
 go 1.16
 
 require (
-	github.com/cosmos/cosmos-sdk v0.44.0
+	github.com/cosmos/cosmos-sdk v0.44.3
 	github.com/cosmos/ibc-go v1.2.0
 	github.com/gogo/protobuf v1.3.3
 	github.com/golang/glog v1.0.0 // indirect
@@ -13,10 +13,10 @@ require (
 	github.com/spf13/cobra v1.2.1
 	github.com/stretchr/testify v1.7.0
 	github.com/tendermint/spm v0.1.6
-	github.com/tendermint/tendermint v0.34.13
+	github.com/tendermint/tendermint v0.34.14
 	github.com/tendermint/tm-db v0.6.4
-	google.golang.org/genproto v0.0.0-20210903162649-d08c68adba83
-	google.golang.org/grpc v1.41.0
+	google.golang.org/genproto v0.0.0-20210917145530-b395a37504d4
+	google.golang.org/grpc v1.42.0
 )
 
 replace (
@@ -25,4 +25,4 @@ replace (
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
 
-replace github.com/cosmos/cosmos-sdk => github.com/celestiaorg/cosmos-sdk v0.44.3-0.20211027181720-00c6ef86fc62
+replace github.com/cosmos/cosmos-sdk => github.com/celestiaorg/cosmos-sdk v0.44.3-0.20211124103907-77deaee3cc66
