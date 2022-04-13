@@ -180,10 +180,10 @@ github.com/btcsuite/winsvc v1.0.0/go.mod h1:jsenWakMcC0zFBFurPLEAyrnc/teJEM1O46f
 github.com/buger/jsonparser v0.0.0-20181115193947-bf1c66bbce23/go.mod h1:bbYlZJ7hK1yFx9hf58LP0zeX7UjIGs20ufpu3evjr+s=
 github.com/casbin/casbin/v2 v2.1.2/go.mod h1:YcPU1XXisHhLzuxH9coDNf2FbKpjGlbCg3n9yuLkIJQ=
 github.com/casbin/casbin/v2 v2.37.0/go.mod h1:vByNa/Fchek0KZUgG5wEsl7iFsiviAYKRtgrQfcJqHg=
-github.com/celestiaorg/cosmos-sdk v0.44.3-0.20220408104622-97dacb565398 h1:F/wJf7Pr1+ozhoGn8fxj/b4ou7+NcSp3/cXXdOX25qA=
-github.com/celestiaorg/cosmos-sdk v0.44.3-0.20220408104622-97dacb565398/go.mod h1:vpN2ZFsV/CW56z7KvGgg0IpOUmyEp36q3J2wWp5upY8=
-github.com/celestiaorg/optimint v0.1.2-0.20220408090709-3e4a966503ba h1:8CqVYBH+ARUf3FnzCTP47c7LmgRMUJt+A9vs9nwxJf8=
-github.com/celestiaorg/optimint v0.1.2-0.20220408090709-3e4a966503ba/go.mod h1:wDKoAStkYlxuTvPq5wfe+VD2EpLdjHhIVRUxifwGLdg=
+github.com/celestiaorg/cosmos-sdk v0.44.3-0.20220413122210-0ecef447970b h1:TWi5cSbqQWIqEA8KWLiuUTj7YNR1QuXlTF2w4wC1/wA=
+github.com/celestiaorg/cosmos-sdk v0.44.3-0.20220413122210-0ecef447970b/go.mod h1:gQZZRKAZXQGQL58fAojrioo/sBu/ipVATehDtzG2CUA=
+github.com/celestiaorg/optimint v0.2.0 h1:SjR9YTJgw5tg63nWiEtcKmywUoNTA128jAQFbd0QqyI=
+github.com/celestiaorg/optimint v0.2.0/go.mod h1:wDKoAStkYlxuTvPq5wfe+VD2EpLdjHhIVRUxifwGLdg=
 github.com/cenkalti/backoff v2.2.1+incompatible h1:tNowT99t7UNflLxfYYSlKYsBpXdEet03Pg2g16Swow4=
 github.com/cenkalti/backoff v2.2.1+incompatible/go.mod h1:90ReRw6GdpyfrHakVjL/QHaoyV4aDUVVkXQJJJ3NXXM=
 github.com/cenkalti/backoff/v4 v4.1.1/go.mod h1:scbssz8iZGpm3xbr14ovlUdkxfGXNInqkPWOWmG2CLw=

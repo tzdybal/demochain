@@ -26,4 +26,4 @@ replace (
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 )
 
-replace github.com/cosmos/cosmos-sdk => github.com/celestiaorg/cosmos-sdk v0.44.3-0.20220408104622-97dacb565398
+replace github.com/cosmos/cosmos-sdk => github.com/celestiaorg/cosmos-sdk v0.44.3-0.20220413122210-0ecef447970b
